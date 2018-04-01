@@ -1,0 +1,89 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "exec-stream",
+        "scope": null,
+        "escapedName": "exec-stream",
+        "name": "exec-stream",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/opt/local/src/static/server"
+    ]
+  ],
+  "_from": "exec-stream@latest",
+  "_id": "exec-stream@0.1.0",
+  "_inCache": true,
+  "_location": "/exec-stream",
+  "_npmUser": {
+    "name": "jden",
+    "email": "jason@denizac.org"
+  },
+  "_npmVersion": "1.3.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "exec-stream",
+    "scope": null,
+    "escapedName": "exec-stream",
+    "name": "exec-stream",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/exec-stream/-/exec-stream-0.1.0.tgz",
+  "_shasum": "050120c5a5069276eb70d6c225451f0a776993ec",
+  "_shrinkwrap": null,
+  "_spec": "exec-stream",
+  "_where": "/opt/local/src/static/server",
+  "author": {
+    "name": "jden",
+    "email": "jason@denizac.org"
+  },
+  "bugs": {
+    "url": "https://github.com/jden/exec-stream/issues"
+  },
+  "dependencies": {},
+  "description": "stream to a child process",
+  "devDependencies": {
+    "chai": "~1.6.0",
+    "concat-stream": "~1.0.0",
+    "literal-stream": "~0.1.0",
+    "mocha": "~1.9.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "050120c5a5069276eb70d6c225451f0a776993ec",
+    "tarball": "https://registry.npmjs.org/exec-stream/-/exec-stream-0.1.0.tgz"
+  },
+  "homepage": "https://github.com/jden/exec-stream#readme",
+  "keywords": [
+    "cli",
+    "exec",
+    "stream"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "jden",
+      "email": "jason@denizac.org"
+    }
+  ],
+  "name": "exec-stream",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jden/exec-stream.git"
+  },
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha"
+  },
+  "version": "0.1.0"
+}
